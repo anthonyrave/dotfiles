@@ -1,0 +1,11 @@
+theme "catppuccin-mocha"
+
+default_layout "compact"
+
+simplified_ui true
+
+ui {
+    pane_frames {
+        rounded_corners true
+    }
+}
