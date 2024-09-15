@@ -15,6 +15,7 @@ I'm using [zsh](https://www.zsh.org/) coupled with the [Oh-my-zsh!](https://ohmy
 
 I also use [starship](https://starship.rs/) prompt.
 
+> [!TIP]
 > Since I liked the "transient prompt" feature from the well-known [powerlevel10k](https://github.com/romkatv/powerlevel10k) theme, I'm thinking about switching to fish. Transient prompts are not currently supported by starship on zsh for now.
 
 ## Tools
@@ -62,5 +63,5 @@ Hall of fame of my preferred color schemes:
 5. Aura
 6. ...
 
-> I'm the kind of people that is bored of themes pretty quickly and I have to switch almost each week so...
+I'm the kind of people that is bored of themes pretty quickly and I have to switch almost each week so...
 
