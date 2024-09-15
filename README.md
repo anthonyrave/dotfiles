@@ -49,7 +49,7 @@ You will probably know a lot of apps on this list if not all.
 | App       | Comments |
 |-----------|----------|
 | Obsidian  |          |
-| Notes     |          |
+| Notes     |          |
 | Notion    |          |
 | iaWritter |          |
 
